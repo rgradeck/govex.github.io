@@ -19,7 +19,7 @@ The first step to treating your city’s data as an asset is to create a compreh
 
 Managing a data inventory reduces risk and uncertainty by creating a checklist for security and compliance requirements and improves a city’s ability to designate accountability for the quality of the data collected and created. Just as it is important for cities to know what data they have, it’s equally important to know what data a city does not have. With a complete picture, cities can begin to collect and use city data to better align mission goals, increase consistency and confidence in decision making, and build performance intelligence.
 
-Managing a data inventory is crucial to better information sharing and integration and a sustainable comprehensive open data program. Providing a public data inventory will make city employees’ jobs easier when they need information from another department - they will know what exists and how to find it. The same benefits apply to the public regarding its search for city information. Having a complete inventory is also important when determining which datasets to release publicly. It’s not feasible to release all of a city’s public datasets at once, so decisionmakers need a prioritization strategy. The data inventory can be used to prioritize the release of data according to strategic priorities, public interest, etc.
+Managing a data inventory is crucial to better information sharing and integration and a sustainable comprehensive open data program. Providing a public data inventory will make city employees’ jobs easier when they need information from another department - they will know what exists and how to find it. The same benefits apply to the public regarding its search for city information. Having a complete inventory is also important when determining which datasets to release publicly. It’s not feasible to release all of a city’s public datasets at once, so decisionmakers need a prioritization strategy. The data inventory can be used to prioritize the release of data according to strategic priorities, public interest, etc. Inventories can also provide value to the research community. Being able to see what data exists, its structure, and use constraints allows researchers at academic institutions, think-tanks, etc. to more-easily develop research methods and structure requests and research agreements for sensitive data.
 
 **How to Conduct an Inventory**
 
@@ -146,3 +146,6 @@ When it comes to inventorying, there’s no need to reinvent the wheel. A lot of
 		 - [Open Data Google Forum](http://cityofphiladelphia.github.io/slash-data/discuss/?_ga=1.264434959.101783352.1408377064)
 	 - San Francisco, CA
 		 - [DataSF Guidebook: Data Coordinators Edition](https://docs.google.com/document/d/1CJ2uZSYEYcPb6bpcr24kcRCV0zDN-9xYE-o7FA23EMk/edit#)
+	 - Western Pennsylvania 
+	 	 - [Establishing Publishing Priorities (general guidance)](https://github.com/WPRDC/data-guide/blob/master/docs/publishingPriorities.md)	
+
